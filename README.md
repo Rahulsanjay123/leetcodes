@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 ## String
 |  |
 | ------- |
@@ -29,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/3291-find-if-array-can-be-sorted) |
+| [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
+## Greedy
+|  |
+| ------- |
+| [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 <!---LeetCode Topics End-->
