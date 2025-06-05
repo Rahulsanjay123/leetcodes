@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
+| [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulsanjay123/leetcodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahulsanjay123/leetcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
