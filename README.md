@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulsanjay123/leetcodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3451-string-compression-iii) |
 ## Binary Search
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
