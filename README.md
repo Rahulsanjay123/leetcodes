@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rahulsanjay123/leetcodes/tree/master/0069-sqrtx) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Rahulsanjay123/leetcodes/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
