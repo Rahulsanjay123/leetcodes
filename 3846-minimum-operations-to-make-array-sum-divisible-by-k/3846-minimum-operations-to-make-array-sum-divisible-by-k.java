@@ -1,12 +1,10 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        int sum = Arrays.stream(nums).sum();
-        int count=0;
-        while(sum%k!=0)
-        {
-            sum--;
-            count++;
-        }
-        return count;
+        int sum = 0;
+        // for (int i : nums) {
+        //     sum += i;
+        // }
+         sum = Arrays.stream(nums).sum();
+        return sum % k;
     }
 }
