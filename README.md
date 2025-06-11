@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulsanjay123/leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3830-find-closest-person](https://github.com/Rahulsanjay123/leetcodes/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulsanjay123/leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
