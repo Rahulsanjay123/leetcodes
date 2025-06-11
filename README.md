@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
