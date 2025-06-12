@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Rahulsanjay123/leetcodes/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
