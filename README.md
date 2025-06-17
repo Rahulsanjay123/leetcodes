@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Rahulsanjay123/leetcodes/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Rahulsanjay123/leetcodes/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulsanjay123/leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
