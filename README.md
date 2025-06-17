@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rahulsanjay123/leetcodes/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Rahulsanjay123/leetcodes/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
