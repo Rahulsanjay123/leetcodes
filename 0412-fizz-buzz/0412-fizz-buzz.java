@@ -17,7 +17,7 @@ class Solution {
             }
             else
             {
-                lst.add(String.valueOf(i));
+                lst.add(""+i);
             }
         }
         return lst;
