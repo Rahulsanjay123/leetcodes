@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
+| [1205-defanging-an-ip-address](https://github.com/Rahulsanjay123/leetcodes/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulsanjay123/leetcodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
