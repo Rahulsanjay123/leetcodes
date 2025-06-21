@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
 |  |
