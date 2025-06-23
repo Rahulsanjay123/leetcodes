@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rahulsanjay123/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Rahulsanjay123/leetcodes/tree/master/0342-power-of-four) |
@@ -247,5 +248,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
