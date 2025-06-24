@@ -1,15 +1,17 @@
 class Solution {
     public String convertDateToBinary(String date) {
-        String[] parts = date.split("-");
+        StringBuilder sb = new StringBuilder();
         
-        int year = Integer.parseInt(parts[0]);
-        int month = Integer.parseInt(parts[1]);
-        int day = Integer.parseInt(parts[2]);
-        
-        String yearBin = Integer.toBinaryString(year);
-        String monthBin = Integer.toBinaryString(month);
-        String dayBin = Integer.toBinaryString(day);
-        
-        return yearBin + "-" + monthBin + "-" + dayBin;
+        String y = date.substring(0,4);
+        String m = date.substring(5,7);
+        String d = date.substring(8,10);
+
+        sb.append(Integer.toBinaryString(Integer.parseInt(y)));
+        sb.append("-");
+        sb.append(Integer.toBinaryString(Integer.parseInt(m)));
+        sb.append("-");
+        sb.append(Integer.toBinaryString(Integer.parseInt(d)));
+
+        return sb.toString();
     }
 }
