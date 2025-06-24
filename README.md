@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/Rahulsanjay123/leetcodes/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rahulsanjay123/leetcodes/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
