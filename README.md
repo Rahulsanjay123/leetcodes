@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
+| [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rahulsanjay123/leetcodes/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rahulsanjay123/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
+| [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
