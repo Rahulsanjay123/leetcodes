@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/3291-find-if-array-can-be-sorted) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Rahulsanjay123/leetcodes/tree/master/1791-richest-customer-wealth) |
+| [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Rahulsanjay123/leetcodes/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rahulsanjay123/leetcodes/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0897-prime-palindrome) |
 | [2491-smallest-even-multiple](https://github.com/Rahulsanjay123/leetcodes/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 ## Recursion
 |  |
 | ------- |
