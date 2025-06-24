@@ -1,39 +1,27 @@
 class Solution {
     public int diagonalPrime(int[][] nums) 
     {
-        int max=0,n=nums.length;
-        for(int i=0;i<n;i++)
+        int max = 0;
+        int n = nums.length;
+        for(int i = 0 ; i < n; i++)
         {
-            if(nums[i][i]==1)
+            if(nums[i][i] > max && isPrime(nums[i][i]))
             {
-                continue;
+                max = nums[i][i];
             }
-            if(prime(nums[i][i]))
+            if(nums[i][n-1-i] > max && isPrime(nums[i][n-1-i]))
             {
-                max=max>nums[i][i]?max:nums[i][i];
-            }
-        }
-        for(int i=0;i<n;i++)
-        {
-            if(nums[i][i]==1)
-            {
-                continue;
-            }
-            if(prime(nums[i][n-i-1]))
-            {
-                max=max>nums[i][n-i-1]?max:nums[i][n-i-1];
+                max = nums[i][n-1-i];
             }
         }
         return max;
     }
-    public static boolean prime(int a)
+    private boolean isPrime(int n)
     {
-        for(int i=2;i<=Math.sqrt(a);i++)
+        if(n < 2)  return false;
+        for(int i = 2; i <= Math.sqrt(n); i++)
         {
-            if(a%i==0)
-            {
-                return false;
-            }
+            if (n % i == 0) return false;
         }
         return true;
     }
