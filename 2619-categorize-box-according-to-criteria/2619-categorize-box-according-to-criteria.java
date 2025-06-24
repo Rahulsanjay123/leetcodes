@@ -1,8 +1,7 @@
 class Solution {
-    public String categorizeBox(int length, int width, int height, int mass) {
-         boolean isBulky = length >= 10000 || width >= 10000 || height >= 10000 
-                          || (long)length * width * height >= 1000000000L;
-        boolean isHeavy = mass >= 100;
+    public String categorizeBox(int l, int w, int h, int m) {
+        boolean isBulky = l>=10000 || w>=10000 || h>=10000 || (long)l*w*h>=1000000000L;
+        boolean isHeavy = m>=100;
 
         if (isBulky && isHeavy) return "Both";
         else if (isBulky) return "Bulky";
