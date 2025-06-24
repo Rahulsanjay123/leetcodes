@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulsanjay123/leetcodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rahulsanjay123/leetcodes/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/Rahulsanjay123/leetcodes/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rahulsanjay123/leetcodes/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3567-convert-date-to-binary](https://github.com/Rahulsanjay123/leetcodes/tree/master/3567-convert-date-to-binary) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Rahulsanjay123/leetcodes/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Rahulsanjay123/leetcodes/tree/master/3830-find-closest-person) |
