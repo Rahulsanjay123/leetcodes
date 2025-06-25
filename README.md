@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rahulsanjay123/leetcodes/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Rahulsanjay123/leetcodes/tree/master/3567-convert-date-to-binary) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Rahulsanjay123/leetcodes/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Rahulsanjay123/leetcodes/tree/master/3830-find-closest-person) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Rahulsanjay123/leetcodes/tree/master/2037-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/2998-count-symmetric-integers) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
