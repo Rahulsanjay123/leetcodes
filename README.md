@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Rahulsanjay123/leetcodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rahulsanjay123/leetcodes/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Rahulsanjay123/leetcodes/tree/master/0504-base-7) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulsanjay123/leetcodes/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahulsanjay123/leetcodes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/2298-count-integers-with-even-digit-sum) |
