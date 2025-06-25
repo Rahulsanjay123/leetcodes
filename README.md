@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Rahulsanjay123/leetcodes/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2645-pass-the-pillow](https://github.com/Rahulsanjay123/leetcodes/tree/master/2645-pass-the-pillow) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulsanjay123/leetcodes/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahulsanjay123/leetcodes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2645-pass-the-pillow](https://github.com/Rahulsanjay123/leetcodes/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Number Theory
