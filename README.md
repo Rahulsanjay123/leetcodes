@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Rahulsanjay123/leetcodes/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Rahulsanjay123/leetcodes/tree/master/0441-arranging-coins) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/3291-find-if-array-can-be-sorted) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahulsanjay123/leetcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 ## Simulation
 |  |
