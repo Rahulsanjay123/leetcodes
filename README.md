@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rahulsanjay123/leetcodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rahulsanjay123/leetcodes/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Rahulsanjay123/leetcodes/tree/master/0077-combinations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
