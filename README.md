@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rahulsanjay123/leetcodes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rahulsanjay123/leetcodes/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
+| [0390-elimination-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rahulsanjay123/leetcodes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rahulsanjay123/leetcodes/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
