@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
+| [1279-prime-arrangements](https://github.com/Rahulsanjay123/leetcodes/tree/master/1279-prime-arrangements) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulsanjay123/leetcodes/tree/master/1806-count-of-matches-in-tournament) |
