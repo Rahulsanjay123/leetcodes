@@ -15,19 +15,16 @@ class Solution {
             head=null;
             return head;
         }
-        int count=0;
-        ListNode ptr1 = head;
-        while(ptr1!=null)
+        ListNode fast=head;
+        ListNode slow=head;
+        ListNode prev=null;
+        while(fast!=null && fast.next!=null)
         {
-            count++;
-            ptr1=ptr1.next;
+            fast = fast.next.next;
+            prev=slow;
+            slow=slow.next;
         }
-        ListNode ptr = head;
-        for(int i=1;i<(count/2);i++)
-        {
-            ptr=ptr.next;
-        }
-        ptr.next=ptr.next.next;
+        prev.next=slow.next;
         return head;
     }
 }
