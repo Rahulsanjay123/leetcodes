@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Rahulsanjay123/leetcodes/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Rahulsanjay123/leetcodes/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rahulsanjay123/leetcodes/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rahulsanjay123/leetcodes/tree/master/0342-power-of-four) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
