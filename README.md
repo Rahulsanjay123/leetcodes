@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/Rahulsanjay123/leetcodes/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Rahulsanjay123/leetcodes/tree/master/3394-minimum-array-end) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rahulsanjay123/leetcodes/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
+| [2509-minimize-xor](https://github.com/Rahulsanjay123/leetcodes/tree/master/2509-minimize-xor) |
 | [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 ## Hash Table
 |  |
