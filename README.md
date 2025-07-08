@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Rahulsanjay123/leetcodes/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rahulsanjay123/leetcodes/tree/master/0010-regular-expression-matching) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Prefix Sum
