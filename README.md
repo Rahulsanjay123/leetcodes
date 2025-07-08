@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Rahulsanjay123/leetcodes/tree/master/1791-richest-customer-wealth) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rahulsanjay123/leetcodes/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Rahulsanjay123/leetcodes/tree/master/0441-arranging-coins) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
