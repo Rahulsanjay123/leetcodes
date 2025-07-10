@@ -15,13 +15,24 @@ class Solution {
         //     }
         // }
         // return pq.isEmpty()? 0:pq.peek();
-        int n=stones.length;
-        Arrays.sort(stones);
-        for(int i=n-1;i>0;i--)
+        // int n=stones.length;
+        // Arrays.sort(stones);
+        // for(int i=n-1;i>0;i--)
+        // {
+        //     stones[i-1]=stones[i]-stones[i-1];
+        //     Arrays.sort(stones);
+        // }
+        // return stones[0];
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        for (int s : stones) 
         {
-            stones[i-1]=stones[i]-stones[i-1];
-            Arrays.sort(stones);
+            pq.offer(s);
         }
-        return stones[0];
+
+        while (pq.size() > 1)
+        {
+            pq.offer(pq.poll() - pq.poll());
+        }
+        return pq.peek();
     }
 }
