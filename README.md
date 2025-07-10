@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1127-last-stone-weight](https://github.com/Rahulsanjay123/leetcodes/tree/master/1127-last-stone-weight) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahulsanjay123/leetcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
