@@ -21,7 +21,7 @@ class Solution {
         return list;
     }
 
-    private void preorderHelper(TreeNode node, List<Integer> list) 
+    public static void preorderHelper(TreeNode node, List<Integer> list) 
     {
         if (node == null) return;
         list.add(node.val);
