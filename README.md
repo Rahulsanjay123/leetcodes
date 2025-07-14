@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rahulsanjay123/leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rahulsanjay123/leetcodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahulsanjay123/leetcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2384-root-equals-sum-of-children](https://github.com/Rahulsanjay123/leetcodes/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rahulsanjay123/leetcodes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rahulsanjay123/leetcodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahulsanjay123/leetcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2384-root-equals-sum-of-children](https://github.com/Rahulsanjay123/leetcodes/tree/master/2384-root-equals-sum-of-children) |
 ## Counting
 |  |
 | ------- |
