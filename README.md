@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/Rahulsanjay123/leetcodes/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Rahulsanjay123/leetcodes/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahulsanjay123/leetcodes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Rahulsanjay123/leetcodes/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Number Theory
