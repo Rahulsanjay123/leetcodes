@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulsanjay123/leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## String Matching
 |  |
 | ------- |
