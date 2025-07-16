@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Rahulsanjay123/leetcodes/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2383-add-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Rahulsanjay123/leetcodes/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
