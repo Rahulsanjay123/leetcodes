@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahulsanjay123/leetcodes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulsanjay123/leetcodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3396-valid-word](https://github.com/Rahulsanjay123/leetcodes/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3451-string-compression-iii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Rahulsanjay123/leetcodes/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Rahulsanjay123/leetcodes/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Number Theory
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
