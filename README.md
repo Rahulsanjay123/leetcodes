@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Rahulsanjay123/leetcodes/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Rahulsanjay123/leetcodes/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2812-find-the-maximum-achievable-number) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rahulsanjay123/leetcodes/tree/master/2955-account-balance-after-rounded-purchase) |
