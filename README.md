@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0944-smallest-range-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0944-smallest-range-i) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1127-last-stone-weight](https://github.com/Rahulsanjay123/leetcodes/tree/master/1127-last-stone-weight) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Rahulsanjay123/leetcodes/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0897-prime-palindrome) |
+| [0944-smallest-range-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
 | [1279-prime-arrangements](https://github.com/Rahulsanjay123/leetcodes/tree/master/1279-prime-arrangements) |
