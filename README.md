@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rahulsanjay123/leetcodes/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Prefix Sum
 |  |
 | ------- |
