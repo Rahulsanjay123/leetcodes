@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [2509-minimize-xor](https://github.com/Rahulsanjay123/leetcodes/tree/master/2509-minimize-xor) |
+| [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
 | [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Rahulsanjay123/leetcodes/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2812-find-the-maximum-achievable-number) |
+| [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
 | [2857-total-distance-traveled](https://github.com/Rahulsanjay123/leetcodes/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rahulsanjay123/leetcodes/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/2998-count-symmetric-integers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
+| [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Rahulsanjay123/leetcodes/tree/master/0319-bulb-switcher) |
+| [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
