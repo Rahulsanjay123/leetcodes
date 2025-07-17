@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Rahulsanjay123/leetcodes/tree/master/1205-defanging-an-ip-address) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahulsanjay123/leetcodes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
 | [1279-prime-arrangements](https://github.com/Rahulsanjay123/leetcodes/tree/master/1279-prime-arrangements) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulsanjay123/leetcodes/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rahulsanjay123/leetcodes/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## String Matching
