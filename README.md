@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
