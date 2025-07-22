@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
 | [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rahulsanjay123/leetcodes/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [2509-minimize-xor](https://github.com/Rahulsanjay123/leetcodes/tree/master/2509-minimize-xor) |
 | [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
+| [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
 | [3779-eat-pizzas](https://github.com/Rahulsanjay123/leetcodes/tree/master/3779-eat-pizzas) |
 ## Hash Table
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
 ## Queue
 |  |
 | ------- |
@@ -552,4 +555,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
+| [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
