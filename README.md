@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rahulsanjay123/leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsanjay123/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsanjay123/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
