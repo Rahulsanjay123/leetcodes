@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Rahulsanjay123/leetcodes/tree/master/1791-richest-customer-wealth) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rahulsanjay123/leetcodes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Rahulsanjay123/leetcodes/tree/master/0441-arranging-coins) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1646-kth-missing-positive-number) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Matrix
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
