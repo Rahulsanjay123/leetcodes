@@ -626,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rahulsanjay123/leetcodes/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [1948-rearrange-products-table](https://github.com/Rahulsanjay123/leetcodes/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
