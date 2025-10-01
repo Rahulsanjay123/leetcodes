@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rahulsanjay123/leetcodes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rahulsanjay123/leetcodes/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0074-search-a-2d-matrix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahulsanjay123/leetcodes/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [2509-minimize-xor](https://github.com/Rahulsanjay123/leetcodes/tree/master/2509-minimize-xor) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rahulsanjay123/leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rahulsanjay123/leetcodes/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rahulsanjay123/leetcodes/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0119-pascals-triangle-ii) |
