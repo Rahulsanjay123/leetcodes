@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Rahulsanjay123/leetcodes/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Rahulsanjay123/leetcodes/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Rahulsanjay123/leetcodes/tree/master/0441-arranging-coins) |
@@ -662,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1948-rearrange-products-table](https://github.com/Rahulsanjay123/leetcodes/tree/master/1948-rearrange-products-table) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rahulsanjay123/leetcodes/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
