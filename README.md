@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Rahulsanjay123/leetcodes/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rahulsanjay123/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
