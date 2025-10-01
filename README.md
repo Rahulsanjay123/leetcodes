@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rahulsanjay123/leetcodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahulsanjay123/leetcodes/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Rahulsanjay123/leetcodes/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Rahulsanjay123/leetcodes/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsanjay123/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rahulsanjay123/leetcodes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rahulsanjay123/leetcodes/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsanjay123/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
