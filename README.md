@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsanjay123/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Rahulsanjay123/leetcodes/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rahulsanjay123/leetcodes/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rahulsanjay123/leetcodes/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Rahulsanjay123/leetcodes/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rahulsanjay123/leetcodes/tree/master/0146-lru-cache) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rahulsanjay123/leetcodes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rahulsanjay123/leetcodes/tree/master/0077-combinations) |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
@@ -607,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -737,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Rahulsanjay123/leetcodes/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rahulsanjay123/leetcodes/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
