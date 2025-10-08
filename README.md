@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahulsanjay123/leetcodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Rahulsanjay123/leetcodes/tree/master/0332-reconstruct-itinerary) |
 | [0695-max-area-of-island](https://github.com/Rahulsanjay123/leetcodes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rahulsanjay123/leetcodes/tree/master/0733-flood-fill) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rahulsanjay123/leetcodes/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Rahulsanjay123/leetcodes/tree/master/0332-reconstruct-itinerary) |
 | [1039-find-the-town-judge](https://github.com/Rahulsanjay123/leetcodes/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahulsanjay123/leetcodes/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rahulsanjay123/leetcodes/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -809,4 +811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Rahulsanjay123/leetcodes/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
