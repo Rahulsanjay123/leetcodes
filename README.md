@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Rahulsanjay123/leetcodes/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Rahulsanjay123/leetcodes/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rahulsanjay123/leetcodes/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Rahulsanjay123/leetcodes/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulsanjay123/leetcodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Rahulsanjay123/leetcodes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Rahulsanjay123/leetcodes/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Rahulsanjay123/leetcodes/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0189-rotate-array) |
@@ -747,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rahulsanjay123/leetcodes/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
