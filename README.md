@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Rahulsanjay123/leetcodes/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rahulsanjay123/leetcodes/tree/master/0238-product-of-array-except-self) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
+| [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Rahulsanjay123/leetcodes/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0344-reverse-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Rahulsanjay123/leetcodes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rahulsanjay123/leetcodes/tree/master/0733-flood-fill) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rahulsanjay123/leetcodes/tree/master/0077-combinations) |
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 ## Geometry
 |  |
 | ------- |
