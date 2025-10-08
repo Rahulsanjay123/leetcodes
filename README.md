@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Rahulsanjay123/leetcodes/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Rahulsanjay123/leetcodes/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Rahulsanjay123/leetcodes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Rahulsanjay123/leetcodes/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0330-patching-array) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [2509-minimize-xor](https://github.com/Rahulsanjay123/leetcodes/tree/master/2509-minimize-xor) |
