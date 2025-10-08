@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahulsanjay123/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rahulsanjay123/leetcodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Rahulsanjay123/leetcodes/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Rahulsanjay123/leetcodes/tree/master/0695-max-area-of-island) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Rahulsanjay123/leetcodes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsanjay123/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Rahulsanjay123/leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahulsanjay123/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahulsanjay123/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rahulsanjay123/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahulsanjay123/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
 ## Graph
