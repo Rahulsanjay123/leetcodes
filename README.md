@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Rahulsanjay123/leetcodes/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Rahulsanjay123/leetcodes/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0087-scramble-string) |
 | [0168-excel-sheet-column-title](https://github.com/Rahulsanjay123/leetcodes/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsanjay123/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
