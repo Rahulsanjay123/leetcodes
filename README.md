@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rahulsanjay123/leetcodes/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Rahulsanjay123/leetcodes/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rahulsanjay123/leetcodes/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0312-burst-balloons](https://github.com/Rahulsanjay123/leetcodes/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
