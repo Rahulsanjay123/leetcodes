@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Rahulsanjay123/leetcodes/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rahulsanjay123/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahulsanjay123/leetcodes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rahulsanjay123/leetcodes/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahulsanjay123/leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Rahulsanjay123/leetcodes/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -766,4 +769,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Rahulsanjay123/leetcodes/tree/master/0149-max-points-on-a-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
