@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-smallest-range-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0944-smallest-range-i) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Rahulsanjay123/leetcodes/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Rahulsanjay123/leetcodes/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rahulsanjay123/leetcodes/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rahulsanjay123/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rahulsanjay123/leetcodes/tree/master/0303-range-sum-query-immutable) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
