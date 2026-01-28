@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0897-prime-palindrome) |
 | [0944-smallest-range-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0944-smallest-range-i) |
+| [1006-clumsy-factorial](https://github.com/Rahulsanjay123/leetcodes/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
 | [1279-prime-arrangements](https://github.com/Rahulsanjay123/leetcodes/tree/master/1279-prime-arrangements) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
+| [1006-clumsy-factorial](https://github.com/Rahulsanjay123/leetcodes/tree/master/1006-clumsy-factorial) |
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/Rahulsanjay123/leetcodes/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulsanjay123/leetcodes/tree/master/1806-count-of-matches-in-tournament) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
+| [1006-clumsy-factorial](https://github.com/Rahulsanjay123/leetcodes/tree/master/1006-clumsy-factorial) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
