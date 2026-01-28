@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
+| [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rahulsanjay123/leetcodes/tree/master/0695-max-area-of-island) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Rahulsanjay123/leetcodes/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rahulsanjay123/leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahulsanjay123/leetcodes/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rahulsanjay123/leetcodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahulsanjay123/leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [3738-make-array-non-decreasing](https://github.com/Rahulsanjay123/leetcodes/tree/master/3738-make-array-non-decreasing) |
 ## Graph
