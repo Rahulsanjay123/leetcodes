@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rahulsanjay123/leetcodes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulsanjay123/leetcodes/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3396-valid-word](https://github.com/Rahulsanjay123/leetcodes/tree/master/3396-valid-word) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3451-string-compression-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Rahulsanjay123/leetcodes/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Rahulsanjay123/leetcodes/tree/master/3567-convert-date-to-binary) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rahulsanjay123/leetcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rahulsanjay123/leetcodes/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
 | ------- |
