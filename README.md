@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rahulsanjay123/leetcodes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rahulsanjay123/leetcodes/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Rahulsanjay123/leetcodes/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Rahulsanjay123/leetcodes/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Rahulsanjay123/leetcodes/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
