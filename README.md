@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rahulsanjay123/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Rahulsanjay123/leetcodes/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Rahulsanjay123/leetcodes/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1610-xor-operation-in-an-array) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Rahulsanjay123/leetcodes/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
