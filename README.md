@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0434-number-of-segments-in-a-string) |
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
 | [0742-to-lower-case](https://github.com/Rahulsanjay123/leetcodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
