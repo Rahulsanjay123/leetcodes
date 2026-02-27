@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1341-movie-rating](https://github.com/Rahulsanjay123/leetcodes/tree/master/1341-movie-rating) |
 | [1948-rearrange-products-table](https://github.com/Rahulsanjay123/leetcodes/tree/master/1948-rearrange-products-table) |
 ## Interactive
 |  |
