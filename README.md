@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Rahulsanjay123/leetcodes/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Rahulsanjay123/leetcodes/tree/master/2523-closest-prime-numbers-in-range) |
 | [2571-find-the-pivot-integer](https://github.com/Rahulsanjay123/leetcodes/tree/master/2571-find-the-pivot-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Rahulsanjay123/leetcodes/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0897-prime-palindrome) |
 | [2491-smallest-even-multiple](https://github.com/Rahulsanjay123/leetcodes/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Rahulsanjay123/leetcodes/tree/master/2523-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
 ## Recursion
 |  |
