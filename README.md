@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulsanjay123/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Rahulsanjay123/leetcodes/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Rahulsanjay123/leetcodes/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rahulsanjay123/leetcodes/tree/master/0231-power-of-two) |
