@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rahulsanjay123/leetcodes/tree/master/2367-number-of-arithmetic-triplets) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rahulsanjay123/leetcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rahulsanjay123/leetcodes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rahulsanjay123/leetcodes/tree/master/2367-number-of-arithmetic-triplets) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rahulsanjay123/leetcodes/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Rahulsanjay123/leetcodes/tree/master/2679-count-distinct-numbers-on-board) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rahulsanjay123/leetcodes/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/Rahulsanjay123/leetcodes/tree/master/2037-count-square-sum-triples) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rahulsanjay123/leetcodes/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/2998-count-symmetric-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rahulsanjay123/leetcodes/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
