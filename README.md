@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Rahulsanjay123/leetcodes/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2396-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Rahulsanjay123/leetcodes/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Rahulsanjay123/leetcodes/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Rahulsanjay123/leetcodes/tree/master/2523-closest-prime-numbers-in-range) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Rahulsanjay123/leetcodes/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2396-strictly-palindromic-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
 ## Game Theory
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
