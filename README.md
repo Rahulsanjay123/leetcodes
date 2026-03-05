@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rahulsanjay123/leetcodes/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
