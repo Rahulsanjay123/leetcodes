@@ -1,16 +1,33 @@
 class Solution {
     public String[] findWords(String[] words) {
-        List<String> ans = new ArrayList<>();
-        int[] rows = {2, 3, 3, 2, 1, 2, 2, 2, 1, 2, 2, 2, 3, 3, 1, 1, 1, 1, 2, 1, 1, 3, 1, 3, 1, 3};
-
-        for (String word : words) {
-            String lowerWord = word.toLowerCase();
-            int row = rows[lowerWord.charAt(0) - 'a'];
-            boolean isValid = lowerWord.chars().allMatch(c -> rows[c - 'a'] == row);
-            if (isValid)
-                ans.add(word);
+        HashMap<Character,Integer>map=new HashMap<>();
+        String row1="qwertyuiop";
+        String row2="asdfghjkl";
+        String row3="zxcvbnm";
+        for(char ch:row1.toCharArray()){
+            map.put(ch,1);
         }
-
-        return ans.toArray(new String[0]);
+        for(char ch:row2.toCharArray()){
+            map.put(ch,2);
+        }
+        for(char ch:row3.toCharArray()){
+            map.put(ch,3);
+        }
+        List<String> result=new ArrayList<>();
+        for(String word:words){
+            String lower=word.toLowerCase();
+            int firstrow=map.get(lower.charAt(0));
+            boolean valid=true;
+            for(char ch:lower.toCharArray()){
+                if(map.get(ch)!=firstrow){
+                    valid=false;
+                    break;
+                }
+            }
+            if(valid){
+                result.add(word);
+            }
+        }
+        return result.toArray(new String[0]);
     }
 }
