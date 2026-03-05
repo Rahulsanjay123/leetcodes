@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Rahulsanjay123/leetcodes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rahulsanjay123/leetcodes/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Rahulsanjay123/leetcodes/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Rahulsanjay123/leetcodes/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Rahulsanjay123/leetcodes/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/Rahulsanjay123/leetcodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rahulsanjay123/leetcodes/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rahulsanjay123/leetcodes/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
