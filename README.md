@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Rahulsanjay123/leetcodes/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Rahulsanjay123/leetcodes/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Rahulsanjay123/leetcodes/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Rahulsanjay123/leetcodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
