@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rahulsanjay123/leetcodes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Rahulsanjay123/leetcodes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Rahulsanjay123/leetcodes/tree/master/0605-can-place-flowers) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Rahulsanjay123/leetcodes/tree/master/0495-teemo-attacking) |
 | [1006-clumsy-factorial](https://github.com/Rahulsanjay123/leetcodes/tree/master/1006-clumsy-factorial) |
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rahulsanjay123/leetcodes/tree/master/1389-create-target-array-in-the-given-order) |
