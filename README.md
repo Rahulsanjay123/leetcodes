@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rahulsanjay123/leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulsanjay123/leetcodes/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rahulsanjay123/leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rahulsanjay123/leetcodes/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Rahulsanjay123/leetcodes/tree/master/0455-assign-cookies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rahulsanjay123/leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rahulsanjay123/leetcodes/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rahulsanjay123/leetcodes/tree/master/3291-find-if-array-can-be-sorted) |
