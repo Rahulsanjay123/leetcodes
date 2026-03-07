@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Rahulsanjay123/leetcodes/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Rahulsanjay123/leetcodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0796-rotate-string) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Rahulsanjay123/leetcodes/tree/master/1205-defanging-an-ip-address) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Rahulsanjay123/leetcodes/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rahulsanjay123/leetcodes/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Brainteaser
