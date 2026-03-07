@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Rahulsanjay123/leetcodes/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Rahulsanjay123/leetcodes/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rahulsanjay123/leetcodes/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Rahulsanjay123/leetcodes/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rahulsanjay123/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rahulsanjay123/leetcodes/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1603-running-sum-of-1d-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
