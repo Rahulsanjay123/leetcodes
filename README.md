@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rahulsanjay123/leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulsanjay123/leetcodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rahulsanjay123/leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0804-unique-morse-code-words) |
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Rahulsanjay123/leetcodes/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0804-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Rahulsanjay123/leetcodes/tree/master/1205-defanging-an-ip-address) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Rahulsanjay123/leetcodes/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Rahulsanjay123/leetcodes/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Rahulsanjay123/leetcodes/tree/master/1039-find-the-town-judge) |
