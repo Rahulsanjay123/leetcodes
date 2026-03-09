@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rahulsanjay123/leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rahulsanjay123/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0832-flipping-an-image) |
 | [0860-design-circular-queue](https://github.com/Rahulsanjay123/leetcodes/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rahulsanjay123/leetcodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Rahulsanjay123/leetcodes/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rahulsanjay123/leetcodes/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0832-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Rahulsanjay123/leetcodes/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/Rahulsanjay123/leetcodes/tree/master/2722-prime-in-diagonal) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Rahulsanjay123/leetcodes/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Rahulsanjay123/leetcodes/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Rahulsanjay123/leetcodes/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0832-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0481-magical-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rahulsanjay123/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rahulsanjay123/leetcodes/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Rahulsanjay123/leetcodes/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0832-flipping-an-image) |
 | [1006-clumsy-factorial](https://github.com/Rahulsanjay123/leetcodes/tree/master/1006-clumsy-factorial) |
 | [1195-distribute-candies-to-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/1195-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rahulsanjay123/leetcodes/tree/master/1389-create-target-array-in-the-given-order) |
