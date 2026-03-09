@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Rahulsanjay123/leetcodes/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rahulsanjay123/leetcodes/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/Rahulsanjay123/leetcodes/tree/master/0824-goat-latin) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Rahulsanjay123/leetcodes/tree/master/1205-defanging-an-ip-address) |
