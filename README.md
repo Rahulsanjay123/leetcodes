@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1646-kth-missing-positive-number) |
+| [1774-closest-dessert-cost](https://github.com/Rahulsanjay123/leetcodes/tree/master/1774-closest-dessert-cost) |
 | [1791-richest-customer-wealth](https://github.com/Rahulsanjay123/leetcodes/tree/master/1791-richest-customer-wealth) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rahulsanjay123/leetcodes/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Rahulsanjay123/leetcodes/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Rahulsanjay123/leetcodes/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Rahulsanjay123/leetcodes/tree/master/0401-binary-watch) |
+| [1774-closest-dessert-cost](https://github.com/Rahulsanjay123/leetcodes/tree/master/1774-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rahulsanjay123/leetcodes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Rahulsanjay123/leetcodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rahulsanjay123/leetcodes/tree/master/1013-fibonacci-number) |
+| [1774-closest-dessert-cost](https://github.com/Rahulsanjay123/leetcodes/tree/master/1774-closest-dessert-cost) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rahulsanjay123/leetcodes/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2850-construct-the-longest-new-string](https://github.com/Rahulsanjay123/leetcodes/tree/master/2850-construct-the-longest-new-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rahulsanjay123/leetcodes/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
