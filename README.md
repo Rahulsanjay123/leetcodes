@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rahulsanjay123/leetcodes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Rahulsanjay123/leetcodes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rahulsanjay123/leetcodes/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Rahulsanjay123/leetcodes/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rahulsanjay123/leetcodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rahulsanjay123/leetcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rahulsanjay123/leetcodes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Rahulsanjay123/leetcodes/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Rahulsanjay123/leetcodes/tree/master/0174-dungeon-game) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rahulsanjay123/leetcodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Rahulsanjay123/leetcodes/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Rahulsanjay123/leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahulsanjay123/leetcodes/tree/master/0412-fizz-buzz) |
