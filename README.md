@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Rahulsanjay123/leetcodes/tree/master/0944-smallest-range-i) |
 | [0952-word-subsets](https://github.com/Rahulsanjay123/leetcodes/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Rahulsanjay123/leetcodes/tree/master/1039-find-the-town-judge) |
+| [1089-duplicate-zeros](https://github.com/Rahulsanjay123/leetcodes/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/Rahulsanjay123/leetcodes/tree/master/1127-last-stone-weight) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rahulsanjay123/leetcodes/tree/master/1389-create-target-array-in-the-given-order) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahulsanjay123/leetcodes/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rahulsanjay123/leetcodes/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Rahulsanjay123/leetcodes/tree/master/0917-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/Rahulsanjay123/leetcodes/tree/master/1089-duplicate-zeros) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Rahulsanjay123/leetcodes/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rahulsanjay123/leetcodes/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulsanjay123/leetcodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
